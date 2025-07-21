@@ -10,9 +10,9 @@ Drawing from the **IEMOCAP** database, we identified **54 instances** of “what
 
 To explore these variations, we developed a series of multimodal visualizations, including:
 
-- 🎮 An **interactive 3D visualization** in Unity3D  
+- 🎮 An **interactive 3D visualization** in Unity3D   [HERE](https://jfforero.github.io/TheWhatSpace/) 
 - 🌐 **Network-based structures** in Blender  
-- 🖥️ A **real-time speech-to-texture web application**  
+- 🖥️ A **real-time speech-to-texture web application**    [HERE] (https://huggingface.co/spaces/jfforero/LoopArtCritique)
 - 🕶️ An **immersive virtual reality installation** hosted on [Onland.io](https://www.onland.io)
 
 These experiences allow users to **navigate a spatialized soundscape** of “what” utterances and **directly experience their emotional diversity**.
@@ -29,4 +29,4 @@ By revealing the **rich affective range embedded in a single word**, _The “Wha
 
 ![The “What” Space](docs/img/the_what_space_visual.jpg)
 
-📄 [Read the full paper here](https://your-link-to-paper.com)
+📄 [Read the full paper here]([https://your-link-to-paper.com](https://computationalcreativity.net/iccc25/wp-content/uploads/papers/iccc25-forero2025what.pdf))
